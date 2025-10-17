@@ -38,3 +38,10 @@ const h2 = document.createElement("h2");
 h2.textContent = "Ser så ut";
 
 container.appendChild(h2);
+
+//
+const dropdown = document.createElement("div");
+
+// dropdown.textContent = "hej";
+dropdown.style.background = "mistyrose";
+document.body.appendChild(dropdown);
